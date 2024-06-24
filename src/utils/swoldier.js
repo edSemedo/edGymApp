@@ -579,7 +579,7 @@ export const EXERCISES = {
         type: 'compound',
         meta: {
             environment: 'gymhome',
-            level: [0, 1, 2],
+            level: [0, 1, 2], 
             equipment: ['barbell']
         },
         unit: 'reps', //vs duration
